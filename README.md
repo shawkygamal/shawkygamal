@@ -2,7 +2,7 @@
 <h3 align="center">🚀 .NET Full Stack Developer</h3>
 
 <p align="center">
-  Passionate about building scalable and efficient web applications using .NET and modern front-end technologies.
+  Currently exploring <strong>Microservices, gRPC, Message Queues (MQ),</strong> and advanced <strong>Design Patterns</strong> to build high-performance distributed systems.
 </p>
 
 ---
