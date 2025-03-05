@@ -2,6 +2,10 @@
 <h3 align="center">🚀 .NET Full Stack Developer</h3>
 
 <p align="center">
+  Passionate about building scalable and efficient web applications using .NET and modern front-end technologies.
+</p>
+
+<p align="center">
   Currently exploring <strong>Microservices, gRPC, Message Queues (MQ),</strong> and advanced <strong>Design Patterns</strong> to build high-performance distributed systems.
 </p>
 
@@ -24,7 +28,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="70" height="70"/>
+  <img alt="NestJS Logo" src="https://nestjs.com/img/logo-small.svg" width="70" height="70"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="70" height="70"/>
 </p>
